@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    overflow-x: hidden;
+}
+ .navbar-style{
+     overflow-x: hidden;
+  width:100%; 
+ }
+ .left-side{
+     width:60%;
+ }
+ .insta{
+     width:70%;  
+ }
+.insta img{
+    width:100px;
+}
+.input-panel{
+    width:29%;  
+}
+.input{
+    padding-left: 80px; 
+}
+.navicon{
+    width:39%; 
+}
+.navicon img{
+   width:40px;
+}
+.fa-home{
+   font-size: 18px;
+}
+.fa-facebook-messenger{
+    font-size: 18px;
+}
+.fa-compass{
+    font-size: 18px;  
+}
+.fa-heart{
+    font-size: 18px;
+    
+}
